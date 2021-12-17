@@ -29,7 +29,7 @@
         "lodash": "~4.17.21",
         "memdb-logger": "~0.1.7",
         "mongodb": "^3.7.3",
-        "mongoose": "^5.7.0",
+        "mongoose": "4.1.5",
         "uuid": "^8.3.2"
     },
     "devDependencies": {}
