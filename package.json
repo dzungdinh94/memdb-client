@@ -1,16 +1,16 @@
 {
     "name": "memdb-client",
     "description": "memdb node.js client",
-    "version": "0.5.7",
-    "author": "rain1017",
+    "version": "0.0.1",
+    "author": "dzungdinh94",
     "private": false,
-    "homepage": "https://github.com/rain1017/memdb-client",
+    "homepage": "https://github.com/dzungdinh94/memdb-client",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rain1017/memdb-client.git"
+        "url": "https://github.com/dzungdinh94/memdb-client.git"
     },
     "bugs": {
-        "url": "https://github.com/rain1017/memdb/issues"
+        "url": "https://github.com/dzungdinh94/memdb/issues"
     },
     "keywords": [
         "memdb"
